@@ -1,0 +1,16 @@
+@import '~node_modules/modern-normalize/modern-normalize.css';
+
+.is-hidden {
+    display: none;
+}
+
+.btn {
+    font-family: var(--page-font);
+    cursor: pointer;
+    border-style: none;
+    border-radius: 4px;
+}
+
+p {
+    margin: 0;
+}
